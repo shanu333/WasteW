@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import com.example.wasteW.CardFlip.CardFlip;
 import com.example.wasteW.CardView.CustomColoredAnimationActivity;
+import com.example.wasteW.MyScrolling.ModifiedScrollView;
 import com.example.wasteW.ScrollView.MainActivity;
 import com.example.wasteW.Seesaw.SeeSawActivity;
 import com.example.wasteW.db.DBHandler;
@@ -28,7 +29,7 @@ public class HomeActivity extends Activity
 
     public void openCardActivity()
     {
-        Intent intent = new Intent(HomeActivity.this, MainActivity.class);
+        Intent intent = new Intent(HomeActivity.this, ModifiedScrollView.class);
         startActivity(intent);
     }
 }

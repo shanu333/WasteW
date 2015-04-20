@@ -26,5 +26,7 @@
         <activity android:name=".favorite.favAct"/>
         <activity android:name=".favorite.FavoriteAction"/>
         <activity android:name=".Seesaw.SeeSawActivity"/>
+        <activity android:name=".MyScrolling.ModifiedScrollView"
+                android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
     </application>
 </manifest>
