@@ -22,8 +22,8 @@ public class HomeActivity extends Activity
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        //openCardActivity();
-        DBHandler handle = new DBHandler(this);
+        openCardActivity();
+        //DBHandler handle = new DBHandler(this);
     }
 
     public void openCardActivity()
