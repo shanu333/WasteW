@@ -16,4 +16,6 @@ limitations under the License.
 -->
 <resources>
     <string name="app_name">Anim</string>
+    <string name="sticky_item">Sticky</string>
+    <string name="quick_return_item">Quick Return</string>
 </resources>
