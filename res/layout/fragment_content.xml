@@ -14,7 +14,7 @@
   limitations under the License.
   -->
 
-<com.example.android.scrolltricks.ObservableScrollView
+<com.example.wasteW.ScrollView.ObservableScrollView
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/scroll_view"
     android:layout_width="match_parent"
@@ -47,4 +47,4 @@
 
     </FrameLayout>
 
-</com.example.android.scrolltricks.ObservableScrollView>
+</com.example.wasteW.ScrollView.ObservableScrollView>
