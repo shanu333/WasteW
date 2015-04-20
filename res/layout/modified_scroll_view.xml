@@ -14,5 +14,10 @@
             android:layout_height="wrap_content"
             android:text="Shorten me"
             android:id="@+id/reduce"/>
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/container"
+            android:orientation="vertical"/>
 
 </LinearLayout>
