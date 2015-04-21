@@ -6,8 +6,10 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
+import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import com.example.wasteW.R;
@@ -30,12 +32,14 @@ public class TestActionBarActivity extends ActionBarActivity
         _toolbar.setTitle("haha");
         setSupportActionBar(_toolbar);
         FadingActionBarHelperAppCompat helper = new FadingActionBarHelperAppCompat()
-                .actionBarBackground(R.drawable.ab_background)
+                .actionBarBackground(R.drawable.transparent)
                 .headerLayout(R.layout.header)
                 .contentLayout(R.layout.activity_listview);
         setContentView(helper.createView(this));
         helper.initActionBar(this);
         Log.d("mymy", helper.isActionBarNull() + "");
+        //setContentView(R.layout.seesaw);
+        addContentView(_toolbar, new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, getResources().getDimensionPixelSize(R.dimen.abc_action_bar_default_height_material)));
         ListView listView = (ListView) findViewById(android.R.id.list);
         ArrayList<String> items = loadItems(R.raw.nyc_sites);
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, items);

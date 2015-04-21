@@ -10,6 +10,7 @@ import com.example.wasteW.ScrollView.MainActivity;
 import com.example.wasteW.Seesaw.SeeSawActivity;
 import com.example.wasteW.db.DBHandler;
 import com.example.wasteW.fadingactionbar.TestActionBarActivity;
+import com.example.wasteW.fadingactionbar.TestTwoActivity;
 import com.example.wasteW.favorite.FavoriteAction;
 import com.example.wasteW.favorite.favAct;
 import com.example.wasteW.property.PropertyAnimation;
@@ -30,7 +31,7 @@ public class HomeActivity extends Activity
 
     public void openCardActivity()
     {
-        Intent intent = new Intent(HomeActivity.this, TestActionBarActivity.class);
+        Intent intent = new Intent(HomeActivity.this, TestTwoActivity.class);
         startActivity(intent);
     }
 }

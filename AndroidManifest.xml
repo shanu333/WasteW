@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.example.wasteW">
 
-    <uses-sdk android:minSdkVersion="18"/>
+    <uses-sdk android:minSdkVersion="17"/>
     <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
@@ -29,6 +29,8 @@
         <activity android:name=".MyScrolling.ModifiedScrollView"
                 android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity android:name=".fadingactionbar.TestActionBarActivity"
+                  android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity android:name=".fadingactionbar.TestTwoActivity"
                   android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
     </application>
 </manifest>
