@@ -42,7 +42,7 @@ public class ModifiedScrollView extends ActionBarActivity
 
     private ListAdapter getAdapter()
     {
-        String[] values = new String[]{"1", "2", "3", "4"};
+        String[] values = new String[]{"1", "2", "3", "4", "5", "6", "7", "1", "2", "3", "4", "5", "6", "7", "1", "2", "3", "4", "5", "6", "7"};
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, android.R.id.text1, values);
         return adapter;
     }
