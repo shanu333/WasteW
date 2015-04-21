@@ -32,5 +32,7 @@
                   android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity android:name=".fadingactionbar.TestTwoActivity"
                   android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity android:name=".fadingactionbar.TestThreeActivity"
+                  android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
     </application>
 </manifest>
