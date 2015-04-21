@@ -28,6 +28,7 @@
         <activity android:name=".Seesaw.SeeSawActivity"/>
         <activity android:name=".MyScrolling.ModifiedScrollView"
                 android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
-        <activity android:name=".fadingactionbar.TestActionBarActivity"/>
+        <activity android:name=".fadingactionbar.TestActionBarActivity"
+                  android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
     </application>
 </manifest>

@@ -27,6 +27,7 @@ public final class FadingActionBarHelperAppCompat extends FadingActionBarHelperB
     @Override
     public void initActionBar(Activity activity) {
         mActionBar = getActionBar(activity);
+        mActionBar.setTitle("hahaha");
         super.initActionBar(activity);
     }
 

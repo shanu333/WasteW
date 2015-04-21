@@ -34,10 +34,10 @@ import android.widget.AbsListView.OnScrollListener;
 import android.widget.FrameLayout;
 import android.widget.LinearLayout;
 import android.widget.ListView;
-
-import com.manuelpeinado.fadingactionbar.view.ObservableScrollView;
-import com.manuelpeinado.fadingactionbar.view.ObservableWebViewWithHeader;
-import com.manuelpeinado.fadingactionbar.view.OnScrollChangedCallback;
+import com.example.wasteW.R;
+import com.example.wasteW.fadingactionbar.view.ObservableScrollView;
+import com.example.wasteW.fadingactionbar.view.ObservableWebViewWithHeader;
+import com.example.wasteW.fadingactionbar.view.OnScrollChangedCallback;
 
 @SuppressWarnings("unchecked")
 public abstract class FadingActionBarHelperBase {
