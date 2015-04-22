@@ -29,5 +29,6 @@
     </orderEntry>
     <orderEntry type="module" module-name="appcompat" />
     <orderEntry type="library" name="appcompat" level="project" />
+    <orderEntry type="module" module-name="google-play-services_lib" />
   </component>
 </module>
