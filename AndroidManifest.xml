@@ -38,6 +38,7 @@
         <activity android:name=".fadingactionbar.TestThreeActivity"
                   android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity android:name=".GoogleLogIn.GoogleLogInActivity"/>
+        <activity android:name=".GoogleLogIn.MyGoogleLogIn"/>
 
         <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
 

@@ -87,62 +87,10 @@
       <change type="DELETED" beforePath="C:\Users\Luffy\Documents\idea Proj\wasteW\google-play-services_lib\res\values\ads_attrs.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Luffy\Documents\idea Proj\wasteW\google-play-services_lib\res\values\colors.xml" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Luffy\Documents\idea Proj\wasteW\google-play-services_lib\res\values\strings.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_focus_light.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_disabled_light.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_focus_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_focus_light.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_normal_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_normal_light.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_pressed_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_icon_pressed_light.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_focus_light.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_disabled_light.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_focus_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_focus_light.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_normal_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_normal_light.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_pressed_dark.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/common_signin_btn_text_pressed_light.9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar" afterPath="$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-hdpi/ic_plusone_medium_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-hdpi/ic_plusone_medium_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-mdpi/ic_plusone_medium_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-mdpi/ic_plusone_medium_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xhdpi/ic_plusone_medium_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xhdpi/ic_plusone_medium_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_medium_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_medium_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-hdpi/ic_plusone_small_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-hdpi/ic_plusone_small_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-mdpi/ic_plusone_small_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-mdpi/ic_plusone_small_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xhdpi/ic_plusone_small_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xhdpi/ic_plusone_small_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_small_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_small_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-hdpi/ic_plusone_standard_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-hdpi/ic_plusone_standard_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-mdpi/ic_plusone_standard_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-mdpi/ic_plusone_standard_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xhdpi/ic_plusone_standard_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xhdpi/ic_plusone_standard_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_standard_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_standard_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-hdpi/ic_plusone_tall_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-hdpi/ic_plusone_tall_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-mdpi/ic_plusone_tall_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-mdpi/ic_plusone_tall_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xhdpi/ic_plusone_tall_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xhdpi/ic_plusone_tall_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_tall_off_client.png" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable-xxhdpi/ic_plusone_tall_off_client.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/AndroidManifest.xml" afterPath="$PROJECT_DIR$/google-play-services_lib/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/wasteW/GoogleLogIn/GoogleLogInActivity.java" afterPath="$PROJECT_DIR$/src/com/example/wasteW/GoogleLogIn/GoogleLogInActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/README.txt" afterPath="$PROJECT_DIR$/google-play-services_lib/README.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/src/android/UnusedStub.java" afterPath="$PROJECT_DIR$/google-play-services_lib/src/android/UnusedStub.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable/common_signin_btn_icon_dark.xml" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable/common_signin_btn_icon_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable/common_signin_btn_icon_light.xml" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable/common_signin_btn_icon_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/color/common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/google-play-services_lib/res/color/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable/common_signin_btn_text_dark.xml" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable/common_signin_btn_text_dark.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/color/common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/google-play-services_lib/res/color/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/drawable/common_signin_btn_text_light.xml" afterPath="$PROJECT_DIR$/google-play-services_lib/res/drawable/common_signin_btn_text_light.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar.properties" afterPath="$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/wasteW/HomeActivity.java" afterPath="$PROJECT_DIR$/src/com/example/wasteW/HomeActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/google_login.xml" afterPath="$PROJECT_DIR$/res/layout/google_login.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/values/maps_attrs.xml" afterPath="$PROJECT_DIR$/google-play-services_lib/res/values/maps_attrs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/proguard.txt" afterPath="$PROJECT_DIR$/google-play-services_lib/proguard.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/project.properties" afterPath="$PROJECT_DIR$/google-play-services_lib/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/google-play-services_lib/res/values/version.xml" afterPath="$PROJECT_DIR$/google-play-services_lib/res/values/version.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wasteW.iml" afterPath="$PROJECT_DIR$/wasteW.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="wasteW.iws" />
@@ -171,8 +119,8 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="298" max-vertical-offset="867">
-              <caret line="41" column="117" selection-start-line="41" selection-start-column="89" selection-end-line="41" selection-end-column="117" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="884">
+              <caret line="42" column="117" selection-start-line="42" selection-start-column="89" selection-end-line="42" selection-end-column="117" />
               <folding>
                 <element signature="e#943#961#0" expanded="true" />
               </folding>
@@ -180,74 +128,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoogleLogInActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GoogleLogInActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/example/wasteW/GoogleLogIn/GoogleLogInActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29549903" vertical-offset="4660" max-vertical-offset="9962">
-              <caret line="283" column="69" selection-start-line="283" selection-start-column="65" selection-end-line="283" selection-end-column="69" />
+            <state vertical-scroll-proportion="-8.551724" vertical-offset="5209" max-vertical-offset="9945">
+              <caret line="321" column="48" selection-start-line="321" selection-start-column="48" selection-end-line="321" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#9142#9168#0" expanded="true" />
-                <element signature="e#12390#12437#0" expanded="true" />
-                <element signature="e#18597#18623#0" expanded="true" />
-                <element signature="e#19322#19734#0" expanded="true" />
-                <element signature="e#19658#19684#0" expanded="true" />
-                <element signature="e#19733#19734#0" expanded="true" />
-                <element signature="e#19835#19863#0" expanded="true" />
-                <element signature="e#19904#19918#0" expanded="true" />
-                <element signature="e#19948#20498#0" expanded="true" />
-                <element signature="e#20406#20432#0" expanded="true" />
-                <element signature="e#20497#20498#0" expanded="true" />
-                <element signature="e#21664#21671#0" expanded="true" />
-                <element signature="e#24019#24034#0" expanded="true" />
-                <element signature="e#24587#24799#0" expanded="true" />
-                <element signature="e#24798#24799#0" expanded="true" />
-                <element signature="e#25550#25589#0" expanded="true" />
-                <element signature="e#25650#25898#0" expanded="true" />
-                <element signature="e#25897#25898#0" expanded="true" />
+                <element signature="e#20364#20914#0" expanded="true" />
+                <element signature="e#20913#20914#0" expanded="true" />
+                <element signature="e#22080#22087#0" expanded="true" />
+                <element signature="e#24435#24450#0" expanded="true" />
+                <element signature="e#25966#26005#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConnectionResult.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar!/com/google/android/gms/common/ConnectionResult.class">
+      <file leaf-file-name="MyGoogleLogIn.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/wasteW/GoogleLogIn/MyGoogleLogIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.68" vertical-offset="204" max-vertical-offset="2091">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="44" />
-              <folding />
+            <state vertical-scroll-proportion="0.34545454" vertical-offset="347" max-vertical-offset="1309">
+              <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+              <folding>
+                <element signature="e#2063#2240#0" expanded="true" />
+                <element signature="e#2239#2240#0" expanded="true" />
+                <element signature="method#buildGoogleApiClient#0;class#MyGoogleLogIn#0" expanded="false" />
+                <element signature="method#onConnected#0;class#MyGoogleLogIn#0" expanded="false" />
+                <element signature="method#onConnectionSuspended#0;class#MyGoogleLogIn#0" expanded="false" />
+                <element signature="method#onConnectionFailed#0;class#MyGoogleLogIn#0" expanded="false" />
+                <element signature="method#onActivityResult#0;class#MyGoogleLogIn#0" expanded="false" />
+                <element signature="method#onStart#0;class#MyGoogleLogIn#0" expanded="false" />
+                <element signature="method#onStop#0;class#MyGoogleLogIn#0" expanded="false" />
+                <element signature="method#resolveSignInError#0;class#MyGoogleLogIn#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+      <file leaf-file-name="my_google_log_in.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/layout/my_google_log_in.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.64" vertical-offset="102" max-vertical-offset="748">
-              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="circle_member.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/circle_member.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.633333" vertical-offset="0" max-vertical-offset="391">
-              <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="google_login.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/google_login.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.9666667" vertical-offset="807" max-vertical-offset="2091">
-              <caret line="58" column="47" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="47" />
+            <state vertical-scroll-proportion="-10.766666" vertical-offset="0" max-vertical-offset="459">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -264,8 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/res/layout/window_transition.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/wasteW/window/transition/WindowTransitionActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/property.xml" />
         <option value="$PROJECT_DIR$/src/com/example/wasteW/property/PropertyAnimation.java" />
         <option value="$PROJECT_DIR$/src/com/example/wasteW/CardFlip/CardFlip.java" />
@@ -310,11 +231,13 @@
         <option value="$PROJECT_DIR$/res/raw/nyc_sites.txt" />
         <option value="$PROJECT_DIR$/res/values/integer.xml" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/com/example/wasteW/HomeActivity.java" />
-        <option value="$PROJECT_DIR$/res/layout/google_login.xml" />
         <option value="$PROJECT_DIR$/res/layout/circle_member.xml" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/layout/google_login.xml" />
         <option value="$PROJECT_DIR$/src/com/example/wasteW/GoogleLogIn/GoogleLogInActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/example/wasteW/HomeActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/my_google_log_in.xml" />
+        <option value="$PROJECT_DIR$/src/com/example/wasteW/GoogleLogIn/MyGoogleLogIn.java" />
       </list>
     </option>
   </component>
@@ -350,7 +273,96 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GoogleLogIn" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wasteW" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
     </panes>
   </component>
@@ -367,11 +379,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2658228" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="ZX1B33F9MR" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="TA93407KSX" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="MyAvd0" />
     <property name="LayoutCode.rearrangeEntriesXML" value="false" />
     <property name="UNSCRAMBLE_LOG_FILE_LAST_URL" value="" />
-    <property name="SearchEverywhereHistoryKey" value="android&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/AndroidManifest.xml&#10;and&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/AndroidManifest.xml&#10;test&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/src/com/example/wasteW/fadingactionbar/TestActionBarActivity.java&#10;hom&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/src/com/example/wasteW/HomeActivity.java&#10;ActionBa&#9;PSI&#9;JAVA://android.support.v7.app.ActionBar&#10;homeA&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/src/com/example/wasteW/HomeActivity.java&#10;andr&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/AndroidManifest.xml&#10;git&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/.gitignore&#10;An&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/AndroidManifest.xml&#10;androi&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/AndroidManifest.xml" />
+    <property name="SearchEverywhereHistoryKey" value="goog&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/src/com/example/wasteW/GoogleLogIn/GoogleLogInActivity.java&#10;android&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/AndroidManifest.xml&#10;and&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/AndroidManifest.xml&#10;test&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/src/com/example/wasteW/fadingactionbar/TestActionBarActivity.java&#10;hom&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/src/com/example/wasteW/HomeActivity.java&#10;ActionBa&#9;PSI&#9;JAVA://android.support.v7.app.ActionBar&#10;homeA&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/src/com/example/wasteW/HomeActivity.java&#10;andr&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/AndroidManifest.xml&#10;git&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/.gitignore&#10;An&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/AndroidManifest.xml&#10;androi&#9;FILE&#9;file://C:/Users/Luffy/Documents/idea Proj/wasteW/AndroidManifest.xml" />
     <property name="options.lastSelected" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -655,12 +667,13 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4874372" sideWeight="0.4570552" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.3600605" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" x="92" y="92" width="1182" height="554" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297546" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43192133" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54941374" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36348408" sideWeight="0.5819423" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4924623" sideWeight="0.5429448" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4924623" sideWeight="0.5429448" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19440243" sideWeight="0.49916247" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5025126" sideWeight="0.5060514" order="12" side_tool="true" content_ui="tabs" />
@@ -672,7 +685,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.3600605" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" x="92" y="92" width="1182" height="554" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39865997" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30318257" sideWeight="0.51966715" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -701,7 +713,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.54941374" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36348408" sideWeight="0.5819423" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4924623" sideWeight="0.5429448" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4924623" sideWeight="0.5429448" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19440243" sideWeight="0.49916247" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5025126" sideWeight="0.5060514" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30318257" sideWeight="0.51966715" order="1" side_tool="false" content_ui="tabs" />
@@ -726,7 +738,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -735,35 +747,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/drawable/sticky_item_background.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="901">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/wasteW/ScrollView/StickyFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03125" vertical-offset="0" max-vertical-offset="544">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/fragment_content.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30612245" vertical-offset="413" max-vertical-offset="952">
@@ -1123,27 +1106,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/wasteW/HomeActivity.java">
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56766254" vertical-offset="0" max-vertical-offset="569">
-          <caret line="35" column="73" selection-start-line="35" selection-start-column="73" selection-end-line="35" selection-end-column="73" />
+        <state vertical-scroll-proportion="0.73634654" vertical-offset="102" max-vertical-offset="748">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="298" max-vertical-offset="867">
-          <caret line="41" column="117" selection-start-line="41" selection-start-column="89" selection-end-line="41" selection-end-column="117" />
-          <folding>
-            <element signature="e#943#961#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/circle_member.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.633333" vertical-offset="0" max-vertical-offset="391">
+        <state vertical-scroll-proportion="0.5361781" vertical-offset="0" max-vertical-offset="539">
           <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
           <folding />
         </state>
@@ -1152,18 +1125,59 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
+    <entry file="file://E:/Eclipse/adt-bundle-windows-x86_64-20140702/sdk/sources/android-21/android/app/ActivityThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.64" vertical-offset="102" max-vertical-offset="748">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.15992971" vertical-offset="34946" max-vertical-offset="85408">
+          <caret line="2256" column="0" selection-start-line="2256" selection-start-column="0" selection-end-line="2256" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="884">
+          <caret line="42" column="117" selection-start-line="42" selection-start-column="89" selection-end-line="42" selection-end-column="117" />
+          <folding>
+            <element signature="e#943#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar!/com/google/android/gms/common/ConnectionResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34375" vertical-offset="0" max-vertical-offset="2091">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar!/com/google/android/gms/common/api/GoogleApiClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34839925" vertical-offset="2739" max-vertical-offset="4284">
+          <caret line="210" column="39" selection-start-line="210" selection-start-column="39" selection-end-line="210" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/wasteW/GoogleLogIn/GoogleLogInActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.551724" vertical-offset="5209" max-vertical-offset="9945">
+          <caret line="321" column="48" selection-start-line="321" selection-start-column="48" selection-end-line="321" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#20364#20914#0" expanded="true" />
+            <element signature="e#20913#20914#0" expanded="true" />
+            <element signature="e#22080#22087#0" expanded="true" />
+            <element signature="e#24435#24450#0" expanded="true" />
+            <element signature="e#25966#26005#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/google_login.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.9666667" vertical-offset="807" max-vertical-offset="2091">
-          <caret line="58" column="47" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.5361781" vertical-offset="289" max-vertical-offset="2142">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
           <folding />
         </state>
       </provider>
@@ -1171,38 +1185,40 @@
         <state />
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar!/com/google/android/gms/common/ConnectionResult.class">
+    <entry file="file://$PROJECT_DIR$/src/com/example/wasteW/HomeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68" vertical-offset="204" max-vertical-offset="2091">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.41827768" vertical-offset="0" max-vertical-offset="569">
+          <caret line="31" column="49" selection-start-line="31" selection-start-column="49" selection-end-line="31" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/wasteW/GoogleLogIn/GoogleLogInActivity.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/my_google_log_in.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29549903" vertical-offset="4660" max-vertical-offset="9962">
-          <caret line="283" column="69" selection-start-line="283" selection-start-column="65" selection-end-line="283" selection-end-column="69" />
+        <state vertical-scroll-proportion="-10.766666" vertical-offset="0" max-vertical-offset="459">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/wasteW/GoogleLogIn/MyGoogleLogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34545454" vertical-offset="347" max-vertical-offset="1309">
+          <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#9142#9168#0" expanded="true" />
-            <element signature="e#12390#12437#0" expanded="true" />
-            <element signature="e#18597#18623#0" expanded="true" />
-            <element signature="e#19322#19734#0" expanded="true" />
-            <element signature="e#19658#19684#0" expanded="true" />
-            <element signature="e#19733#19734#0" expanded="true" />
-            <element signature="e#19835#19863#0" expanded="true" />
-            <element signature="e#19904#19918#0" expanded="true" />
-            <element signature="e#19948#20498#0" expanded="true" />
-            <element signature="e#20406#20432#0" expanded="true" />
-            <element signature="e#20497#20498#0" expanded="true" />
-            <element signature="e#21664#21671#0" expanded="true" />
-            <element signature="e#24019#24034#0" expanded="true" />
-            <element signature="e#24587#24799#0" expanded="true" />
-            <element signature="e#24798#24799#0" expanded="true" />
-            <element signature="e#25550#25589#0" expanded="true" />
-            <element signature="e#25650#25898#0" expanded="true" />
-            <element signature="e#25897#25898#0" expanded="true" />
+            <element signature="e#2063#2240#0" expanded="true" />
+            <element signature="e#2239#2240#0" expanded="true" />
+            <element signature="method#buildGoogleApiClient#0;class#MyGoogleLogIn#0" expanded="false" />
+            <element signature="method#onConnected#0;class#MyGoogleLogIn#0" expanded="false" />
+            <element signature="method#onConnectionSuspended#0;class#MyGoogleLogIn#0" expanded="false" />
+            <element signature="method#onConnectionFailed#0;class#MyGoogleLogIn#0" expanded="false" />
+            <element signature="method#onActivityResult#0;class#MyGoogleLogIn#0" expanded="false" />
+            <element signature="method#onStart#0;class#MyGoogleLogIn#0" expanded="false" />
+            <element signature="method#onStop#0;class#MyGoogleLogIn#0" expanded="false" />
+            <element signature="method#resolveSignInError#0;class#MyGoogleLogIn#0" expanded="false" />
           </folding>
         </state>
       </provider>

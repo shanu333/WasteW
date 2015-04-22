@@ -248,6 +248,7 @@ public class GoogleLogInActivity extends FragmentActivity implements
 
     @Override
     public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+        Log.d("mymy", "on check chnages");
         switch (buttonView.getId()) {
             case R.id.request_auth_code_checkbox:
                 mRequestServerAuthCode = isChecked;
@@ -397,18 +398,23 @@ public class GoogleLogInActivity extends FragmentActivity implements
 
     @Override
     public void onResult(LoadPeopleResult peopleData) {
+        Log.d("mymy", "on result called");
         if (peopleData.getStatus().getStatusCode() == CommonStatusCodes.SUCCESS) {
             mCirclesList.clear();
             PersonBuffer personBuffer = peopleData.getPersonBuffer();
             try {
                 int count = personBuffer.getCount();
+                Log.d("mymy", "found "  + count);
+                String s = "";
                 for (int i = 0; i < count; i++) {
                     mCirclesList.add(personBuffer.get(i).getDisplayName());
+                    s += (" " + personBuffer.get(i).getDisplayName());
                 }
+                Log.d("mymy", s);
             } finally {
                 personBuffer.close();
             }
-
+            mCirclesListView.setVisibility(View.VISIBLE);
             mCirclesAdapter.notifyDataSetChanged();
         } else {
             Log.e(TAG, "Error requesting visible circles: " + peopleData.getStatus());
@@ -416,6 +422,7 @@ public class GoogleLogInActivity extends FragmentActivity implements
     }
 
     private void onSignedOut() {
+        Log.d("mymy", "on signed out");
         // Update the UI to reflect that the user is signed out.
         mSignInButton.setEnabled(true);
         mSignOutButton.setEnabled(false);
@@ -436,6 +443,7 @@ public class GoogleLogInActivity extends FragmentActivity implements
         // We call connect() to attempt to re-establish the connection or get a
         // ConnectionResult that we can attempt to resolve.
         mGoogleApiClient.connect();
+        Log.d("mymy", "connection suspended");
     }
 
     private Dialog createErrorDialog() {
