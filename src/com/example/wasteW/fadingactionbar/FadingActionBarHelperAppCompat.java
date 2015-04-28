@@ -16,13 +16,19 @@
 package com.example.wasteW.fadingactionbar;
 
 import android.app.Activity;
+import android.content.Intent;
+import android.graphics.Color;
 import android.graphics.drawable.Drawable;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.ActionBarActivity;
+import android.support.v7.widget.Toolbar;
+import android.util.Log;
 
-public final class FadingActionBarHelperAppCompat extends FadingActionBarHelperBase {
+public final class FadingActionBarHelperAppCompat extends FadingActionBarHelperBases
+{
 
     private ActionBar mActionBar;
+    private Toolbar _toolbar;
 
     @Override
     public void initActionBar(Activity activity) {
@@ -55,5 +61,37 @@ public final class FadingActionBarHelperAppCompat extends FadingActionBarHelperB
     @Override
     protected void setActionBarBackgroundDrawable(Drawable drawable) {
         mActionBar.setBackgroundDrawable(drawable);
+    }
+
+    @Override
+    protected void setAlphaForToolbarTitle(int newAlpha)
+    {
+        if(_toolbar == null)
+        {
+            return;
+        }
+        Log.d("mymy", "came here");
+        _toolbar.setTitleTextColor(getColor(newAlpha));
+    }
+
+    public int getColor(int alpha)
+    {
+        String str = "#";
+        str = str + convertHex(alpha);
+        str += "000000";
+        Log.d("mymy", str);
+        return Color.parseColor(str);
+    }
+
+    private String convertHex(int alpha)
+    {
+        alpha = 255 * alpha;
+        StringBuilder sb = new StringBuilder();
+        sb.append(Integer.toHexString(alpha));
+        if (sb.length() < 2) {
+            sb.insert(0, '0'); // pad with leading zero if needed
+        }
+        String hex = sb.toString();
+        return hex;
     }
 }

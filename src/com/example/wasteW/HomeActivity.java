@@ -8,12 +8,15 @@ import com.example.wasteW.CardView.CustomColoredAnimationActivity;
 import com.example.wasteW.GoogleLogIn.GoogleLogInActivity;
 import com.example.wasteW.GoogleLogIn.MyGoogleLogIn;
 import com.example.wasteW.MyScrolling.ModifiedScrollView;
+import com.example.wasteW.ScrollView.ConvertedActivity;
 import com.example.wasteW.ScrollView.MainActivity;
 import com.example.wasteW.Seesaw.SeeSawActivity;
 import com.example.wasteW.db.DBHandler;
+import com.example.wasteW.fadingactionbar.ScrollActivity;
 import com.example.wasteW.fadingactionbar.TestActionBarActivity;
 import com.example.wasteW.fadingactionbar.TestThreeActivity;
 import com.example.wasteW.fadingactionbar.TestTwoActivity;
+
 import com.example.wasteW.favorite.FavoriteAction;
 import com.example.wasteW.favorite.favAct;
 import com.example.wasteW.property.PropertyAnimation;
@@ -34,7 +37,7 @@ public class HomeActivity extends Activity
 
     public void openCardActivity()
     {
-        Intent intent = new Intent(HomeActivity.this, MyGoogleLogIn.class);
+        Intent intent = new Intent(HomeActivity.this, ConvertedActivity.class);
         startActivity(intent);
     }
 }

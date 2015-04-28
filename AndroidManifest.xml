@@ -39,6 +39,10 @@
                   android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity android:name=".GoogleLogIn.GoogleLogInActivity"/>
         <activity android:name=".GoogleLogIn.MyGoogleLogIn"/>
+        <activity android:name=".ScrollView.ConvertedActivity"
+                  android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity android:name=".fadingactionbar.ScrollActivity"
+                  android:theme="@style/Theme.AppCompat.Light"/>
 
         <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
 

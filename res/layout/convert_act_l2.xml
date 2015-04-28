@@ -1,0 +1,67 @@
+<FrameLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <com.example.wasteW.ScrollView.MyObservableScrollView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/scroll_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="56dp">
+        <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/icon"
+                android:layout_gravity="center"
+                android:id="@+id/image_view"/>
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:id="@+id/view"
+                android:background="#fff">
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_margin="50dp"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_margin="50dp"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_margin="50dp"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_margin="50dp"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_margin="50dp"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_margin="50dp"/>
+            <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:layout_margin="50dp"/>
+
+
+        </LinearLayout>
+    </LinearLayout>
+    </com.example.wasteW.ScrollView.MyObservableScrollView>
+    <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ffffff"
+            android:id="@+id/tool_bar"/>
+</FrameLayout>
+
