@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="fontPath" format="string"/>
+    
+    <declare-styleable name="RectangleStopView">
+        <attr name="rectcolor" format="color"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="CollapseOnScrollView">
+        <attr name="stayVisibleId" format="reference" />
+        <attr name="expandOnDragId" format="reference" />
+        <attr name="scrollOnDragId" format="reference" />
+        <attr name="collapseOnDragId" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="LoadingSpinnerView">
+        <attr name="loaderColor" format="color"></attr>
+        <attr name="loaderThickness" format="dimension"></attr>
+    </declare-styleable>
+
+</resources>

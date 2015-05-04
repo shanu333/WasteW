@@ -1,67 +1,61 @@
 <FrameLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-
-    <com.example.wasteW.ScrollView.MyObservableScrollView
-            xmlns:android="http://schemas.android.com/apk/res/android"
-            android:id="@+id/scroll_view"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
-    <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical"
-            android:paddingTop="56dp">
-        <ImageView
-                android:layout_width="100dp"
-                android:layout_height="100dp"
-                android:src="@drawable/icon"
-                android:layout_gravity="center"
-                android:id="@+id/image_view"/>
-        <LinearLayout
+        android:layout_height="match_parent"
+        android:animateLayoutChanges="true">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.example.wasteW.collapse_on_scroll.CollapseOnScrollViewPager
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/scroll_view"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="vertical"
-                android:id="@+id/view"
-                android:background="#fff">
-            <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="100dp"
-                    android:layout_margin="50dp"/>
-            <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="100dp"
-                    android:layout_margin="50dp"/>
-            <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="100dp"
-                    android:layout_margin="50dp"/>
-            <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="100dp"
-                    android:layout_margin="50dp"/>
-            <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="100dp"
-                    android:layout_margin="50dp"/>
-            <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="100dp"
-                    android:layout_margin="50dp"/>
-            <Button
-                    android:layout_width="match_parent"
-                    android:layout_height="100dp"
-                    android:layout_margin="50dp"/>
+                android:fillViewport="true"
+                app:scrollOnDragId="@+id/pages"
+                app:collapseOnDragId="@+id/dummy_view2"
+                app:stayVisibleId="@+id/stcik"
+                app:expandOnDragId="@+id/dummy_view1"
+                android:nestedScrollingEnabled="true"
+                >
+            <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
 
+                <View android:layout_width="0dp" android:layout_height="0dp" android:id="@+id/dummy_view1"/>
+                <View android:layout_width="0dp" android:layout_height="0dp" android:id="@+id/dummy_view2"/>
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:id="@+id/scroll_id"
+                        android:paddingTop="56dp">
+                    <ImageView
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:src="@drawable/icon"
+                            android:layout_gravity="center"
+                            android:layout_alignParentTop="true"
+                            android:id="@+id/image_view"/>
+                    <View android:layout_width="match_parent" android:layout_height="10dp"
+                          android:background="#76000000" android:id="@+id/stcik"/>
+                    <android.support.v4.view.ViewPager
+                            android:layout_below="@+id/image_view"
+                            android:layout_width="match_parent"
+                            android:layout_height="1900dp"
+                            android:id="@+id/pages"/>
+                </LinearLayout>
 
-        </LinearLayout>
-    </LinearLayout>
-    </com.example.wasteW.ScrollView.MyObservableScrollView>
+            </FrameLayout>
+        </com.example.wasteW.collapse_on_scroll.CollapseOnScrollViewPager>
+
+        <View android:layout_width="match_parent" android:layout_height="56dp"
+              android:background="#760000ff"
+              android:id="@+id/bottom"
+              android:layout_gravity="bottom"/>
+    </FrameLayout>
     <android.support.v7.widget.Toolbar
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#ffffff"
             android:id="@+id/tool_bar"/>
+
 </FrameLayout>
 

@@ -43,6 +43,7 @@
                   android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity android:name=".fadingactionbar.ScrollActivity"
                   android:theme="@style/Theme.AppCompat.Light"/>
+        <activity android:name=".collapse_on_scroll.temp"/>
 
         <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
 
